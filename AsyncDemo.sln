@@ -10,9 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 		AsyncDemo.vsmdi = AsyncDemo.vsmdi
 		License.txt = License.txt
-		Local.testsettings = Local.testsettings
 		Readme.txt = Readme.txt
-		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementations", "Implementations\Implementations.csproj", "{F7FA072F-C077-451E-A33E-F09AB0447FD5}"
